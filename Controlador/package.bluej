@@ -1,10 +1,10 @@
 #BlueJ package file
-objectbench.height=92
-objectbench.width=461
+objectbench.height=145
+objectbench.width=760
 package.divider.horizontal=0.6
-package.divider.vertical=0.8012048192771084
-package.editor.height=392
-package.editor.width=646
+package.divider.vertical=0.696
+package.editor.height=341
+package.editor.width=644
 package.editor.x=360
 package.editor.y=95
 package.frame.height=600
@@ -22,7 +22,6 @@ target1.height=50
 target1.name=ClienteControl
 target1.showInterface=false
 target1.type=ClassTarget
-target1.typeParameters=
-target1.width=130
-target1.x=40
-target1.y=110
+target1.width=110
+target1.x=250
+target1.y=10

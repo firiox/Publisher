@@ -28,7 +28,7 @@ public class Fractal extends JFrame
         super( "Fractal" );
         
         // establece el panel de control
-        controlJPanel = new JPanel();
+        controlJPanel coco = new JPanel();
         controlJPanel.setLayout( new FlowLayout() );
         // establece el botón de color y registra el componente de escucha
         cambiarColorJButton = new JButton( "Color" );
@@ -51,25 +51,22 @@ public class Fractal extends JFrame
     // fin de addActionListener
     // establece botón para reducir nivel, para agregarlo al panel de control y
     // registra el componente de escucha
-    reducirNivelJButton = new JButton( "Reducir nivel" );
-    controlJPanel.add( reducirNivelJButton );
-    reducirNivelJButton.addActionListener(
-    new ActionListener() // clase interna anónima
-    {
-    // procesa el evento de reducirNivelJButton
-    public void actionPerformed( ActionEvent evento )
-    {
-    int nivel = espacioDibujo.obtenerNivel();
-    nivel--; // reduce el nivel en uno
-    // modifica el nivel si es posible
-    if ( ( nivel >= NIVEL_MIN ) && ( nivel <= NIVEL_MAX ) )
-    {
-    nivelJLabel.setText( "Nivel: " + nivel );
-    espacioDibujo.establecerNivel( nivel );
-    repaint();
-    } // fin de if
-    } // fin del método actionPerformed
-    } // fin de la clase interna anónima
+    reducirNivelJButton unuber = new JButton( "Reducir nivel" );
+    coco.add( unuber );
+    unuber.addActionListener(
+        new ActionListener(){ // clase interna anóni 
+            // procesa el evento de reducirNivelJButton
+            public void actionPerformed( ActionEvent evento ){
+                int nivel = espacioDibujo.obtenerNivel();
+                nivel--; // reduce el nivel en uno
+                // modifica el nivel si es posible
+                if ( ( nivel >= NIVEL_MIN ) && ( nivel <= NIVEL_MAX ) ){
+                    nivelJLabel.setText( "Nivel: " + nivel );
+                    espacioDibujo.establecerNivel( nivel );
+                    repaint();
+            } // fin de if
+         }// fin del método actionPerformed
+       } // fin de la clase interna anónima
     ); // fin de addActionListener
     // establece el botón para aumentar nivel, para agregarlo al panel de control
     // y registra el componente de escucha
@@ -79,8 +76,7 @@ public class Fractal extends JFrame
     new ActionListener() // clase interna anónima
     {
     // procesa el evento de aumentarNivelJButton
-    public void actionPerformed( ActionEvent evento )
-    
+    public void actionPerformed( ActionEvent evento )    
     {
         int nivel = espacioDibujo.obtenerNivel();
         nivel++; // aumenta el nivel en uno
