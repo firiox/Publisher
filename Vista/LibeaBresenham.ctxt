@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LibeaBresenham
+comment0.text=\n\ Write\ a\ description\ of\ class\ LibeaBresenham\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=punto1\ punto2\ color
+comment1.target=LibeaBresenham(Punto,\ Punto,\ int)
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=
+comment3.target=java.util.ArrayList\ getPuntos()
+comment4.params=
+comment4.target=void\ calcular()
+comment5.params=x1\ y1\ x2\ y2\ color
+comment5.target=void\ drawLine(int,\ int,\ int,\ int,\ int)
+comment6.params=punto
+comment6.target=void\ translacion(Punto)
+numComments=7

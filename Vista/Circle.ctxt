@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\n\ Write\ a\ description\ of\ class\ Circle\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=p\ r\ c
+comment1.target=Circle(Punto,\ int,\ int)
+comment2.params=
+comment2.target=int\ getD()
+comment3.params=c
+comment3.target=void\ setCo(int)
+comment4.params=
+comment4.target=int\ getCo()
+comment5.params=r
+comment5.target=void\ setR(int)
+comment6.params=
+comment6.target=Punto\ getCe()
+comment7.params=c
+comment7.target=void\ setCe(Punto)
+comment8.params=
+comment8.target=java.util.ArrayList\ getPuntos()
+comment9.params=
+comment9.target=void\ puntos()
+numComments=10

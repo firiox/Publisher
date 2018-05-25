@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FractalJPanel
+comment1.params=nivelActual
+comment1.target=FractalJPanel(int)
+comment2.params=nivel\ xA\ yA\ xB\ yB\ g
+comment2.target=void\ dibujarFractal(int,\ int,\ int,\ int,\ int,\ java.awt.Graphics)
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=c
+comment4.target=void\ establecerColor(java.awt.Color)
+comment5.params=nivelActual
+comment5.target=void\ establecerNivel(int)
+comment6.params=
+comment6.target=int\ obtenerNivel()
+numComments=7

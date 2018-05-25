@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Linea
+comment0.text=\n\ Write\ a\ description\ of\ class\ Linea\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=punto\ m\ color
+comment1.target=Linea(Punto,\ int,\ int)
+comment2.params=fila\ columna
+comment2.target=void\ linea(int,\ int)
+comment3.params=
+comment3.target=int\ getM()
+comment4.params=m
+comment4.target=void\ setM(int)
+comment5.params=
+comment5.target=java.util.ArrayList\ getPuntos()
+comment6.params=punto
+comment6.target=void\ punto(Punto)
+comment7.params=
+comment7.target=Punto\ getPunto()
+comment8.params=
+comment8.target=int\ getCo()
+comment9.params=c
+comment9.target=void\ setCo(int)
+numComments=10

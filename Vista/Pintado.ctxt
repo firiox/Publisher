@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pintado
+comment0.text=\n\ Write\ a\ description\ of\ class\ Pintado\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=punto
+comment1.target=Pintado(Punto)
+comment2.params=
+comment2.target=void\ pintar()
+comment3.params=whith\ head
+comment3.target=boolean\ valido(int,\ int)
+numComments=4

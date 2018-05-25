@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LineaBresenham
+comment0.text=\n\ Write\ a\ description\ of\ class\ LineaBresenham\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=punto1\ punto2
+comment1.target=LineaBresenham(Punto,\ Punto)
+comment2.params=
+comment2.target=void\ calcular()
+comment3.params=X1\ Y1\ X2\ Y2
+comment3.target=void\ calcular(int,\ int,\ int,\ int)
+numComments=4

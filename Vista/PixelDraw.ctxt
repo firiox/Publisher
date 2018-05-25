@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PixelDraw
+comment1.params=width\ height
+comment1.target=PixelDraw(int,\ int)
+comment2.params=
+comment2.target=java.awt.Dimension\ getPreferredSize()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=c
+comment4.target=void\ fillCanvas(java.awt.Color)
+comment5.params=c\ x1\ y1\ width\ height
+comment5.target=void\ drawLine(java.awt.Color,\ int,\ int,\ int,\ int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

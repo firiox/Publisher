@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Cirrcle2Puntos
+comment0.text=\n\ Write\ a\ description\ of\ class\ Cirrcle2Puntos\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=punto1\ punto2\ color
+comment1.target=Cirrcle2Puntos(Punto,\ Punto,\ int)
+comment10.params=
+comment10.target=java.util.ArrayList\ getPuntos()
+comment2.params=
+comment2.target=void\ circulo()
+comment3.params=
+comment3.target=Punto\ centro()
+comment4.params=
+comment4.target=int\ diametro()
+comment5.params=
+comment5.target=int\ getColor()
+comment6.params=c
+comment6.target=void\ setColor(int)
+comment7.params=p1\ p2
+comment7.target=void\ punto(Punto,\ Punto)
+comment8.params=
+comment8.target=Punto\ getPunto1()
+comment9.params=
+comment9.target=Punto\ getPunto2()
+numComments=11

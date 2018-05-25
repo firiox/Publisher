@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Punto
+comment0.text=\n\ Write\ a\ description\ of\ class\ Punto\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x\ y\ c
+comment1.target=Punto(int,\ int,\ int)
+comment2.params=c
+comment2.target=void\ setColor(int)
+comment3.params=x\ y
+comment3.target=void\ setCoordenada(int,\ int)
+comment4.params=
+comment4.target=int\ getC()
+comment5.params=
+comment5.target=Publisher.Modelo.Coordenada\ getCoordenada()
+numComments=6

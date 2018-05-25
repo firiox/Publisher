@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=InterfaceC2
+comment0.text=\n\ Write\ a\ description\ of\ class\ InterfaceL2\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=InterfaceC2()
+comment2.params=
+comment2.target=void\ label()
+comment3.params=
+comment3.target=void\ textFiled()
+comment4.params=
+comment4.target=void\ button()
+comment5.params=
+comment5.target=javax.swing.JButton\ getAceptar()
+comment6.params=
+comment6.target=javax.swing.JButton\ getCancel()
+comment7.params=canvas
+comment7.target=void\ canvas(Dibujo)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=arg
+comment9.target=void\ main(java.lang.String[])
+numComments=10
